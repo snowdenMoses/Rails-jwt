@@ -1,0 +1,1 @@
+secrets.secret_key_base = 'secret_key'
